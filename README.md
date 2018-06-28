@@ -12,6 +12,7 @@ The wireless network simulator is built upon the open-source OMNET++ with the IN
 
 The physical system simulator is based on the Tennessee Eastman simulator C++ code [6]. It works as an independent function module in OMNET++ platform and share the same global clock with the radios (no time synchronization issues).
 
+The latest version is 2016-05-02.
 
 ## Acknowledge
 This software packet uses the open-licensed OMNET++ [3], the INET framework [4], and the MiXiM framework [5]. The physical system code is copied from the NIST TEsim repository written by Richard Candell [6]. 
